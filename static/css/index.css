@@ -4,7 +4,7 @@
 #myTabContent{
     padding-top: 10px;
 }
-li{
+#myTab{
     font-size: 17px;
     font-weight: bold;
 }
@@ -14,4 +14,12 @@ p a {
 }
 a:hover{
     text-decoration: none;
+}
+#about li{
+    font-size: 18px;
+    margin-top: 10PX;
+}
+#about li span{
+    color: #2aabd2;
+    font-weight: bold;
 }

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>学习使人进步</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="lib/bootstrap/css/bootstrap.css"  rel="stylesheet">
+    <link href="lib/bootstrap/css/bootstrap-theme.css"  rel="stylesheet">
+    <link href="static/css/index.css" rel="stylesheet">
+    <script src="lib/bootstrap/js/jquery-3.2.1.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.js"></script>
+    <script src="static/js/index.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="nav">
+            <ul id="myTab" class="nav nav-tabs">
+                <li class="active">
+                    <a href="#resume" data-toggle="tab">简历撰写</a>
+                </li>
+                <li><a href="#interview" data-toggle="tab">求职面试</a></li>
+                <li><a href="#about" data-toggle="tab">About我</a></li>
+            </ul>
+            <div id="myTabContent" class="tab-content">
+                <div class="tab-pane fade in active" id="resume">
+                    <p><a href="http://mp.weixin.qq.com/s/QYZkhXcAR26GzmNQjlKjYw"><span>一、</span>单页简历好不好?</a></p>
+                    <p><a href="http://mp.weixin.qq.com/s/3q8CkwFQ7TmCGyq3A4xSIQ"><span>二、</span>你是将简历怎么递给面试官的手里?</a></p>
+                    <p><a href="http://mp.weixin.qq.com/s/tKfp2fnaSIZhIHUj89ZMjQ"><span>三、</span>别少了!简历中有哪些基本信息?重点怎么写？</a></p>
+                    <p><a href="http://mp.weixin.qq.com/s/v2ZyThsikHtT6NS0NhFrkg"><span>四、</span>简历中:专业职业技能!如何写！</a></p>
+                    <p><a href="https://mp.weixin.qq.com/s/XYGH_fytmYQLfHxJyNFUUQ"><span>五、</span>简历中的:自我评价重点难点!如何写！</a></p>
+                    <p><a href="http://mp.weixin.qq.com/s/qkgiTZGMrQGzM_ZkczVRQA"><span>六、</span>简历千万不要出现的问题!</a></p>
+                </div>
+                <div class="tab-pane fade" id="interview">
+                    <p><a href="http://mp.weixin.qq.com/s/1YH6e2By7ejhQaswpxOSIg"><span>一、</span>面试常问的五个问题!</a></p>
+                    <p><a href="http://mp.weixin.qq.com/s/Mi9BDCuL4Y3IIQ26iXtDLw"><span>二、</span>面试前了解面试公司的哪些信息?</a></p>
+                </div>
+                <div class="tab-pane fade" id="about">
+                    <ul>
+                        <li><span>称呼:</span>酥兄</li>
+                        <li><span>职业:</span>我不是大神，喜欢编程，喜欢研究，喜欢做点自己掌控的事情!</li>
+                        <li><span>想法:</span>当年毕业后，进入工作，一路走来磕磕绊绊，迷茫过，徘徊过，走过弯路，
+                           自己摸索做规划去经营自己。回首发现那时候如果有人给我指引该多好。提供指引，帮助大家，同时这也是记录我的人生。</li>
+                        <li><span>人生格言:</span>你的时间有限不要浪费，做好当前的事情!</li>
+                        <li><span>解答时间:</span>因为白天我都是上班的，所以大家比较复杂的问题我不能及时回答，
+                            简单的我会中午12点钟给大家回答，
+                            所以我给出的时间是每天晚上七点钟会给大家解答疑惑问题！
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
